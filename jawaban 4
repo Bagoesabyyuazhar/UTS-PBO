@@ -1,5 +1,5 @@
 import os 
-print("NOMOR 4")
+
 def inputDt():
     nim = int(input("Nim : "))
     nama = input("Nama : ")
@@ -62,4 +62,3 @@ def program_sederhana():
             os.system("clear")
             print("pilihan tidak ada")
             continue
-program_sederhana()
