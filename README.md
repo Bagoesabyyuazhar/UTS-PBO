@@ -1,4 +1,5 @@
-# UTS-PBO
+# UTS Pemrograman Berorientasi Object (PBO)
 
-bagoes abyyu azhar
-20210801253
+
+NAMA : Bagoes Abyyu Azhar
+NIM  : 20210801253
