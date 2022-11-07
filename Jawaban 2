@@ -1,4 +1,4 @@
-def tugas6():
+def ():
     print("="*20)
     print("PROGRAM QUIZ")
     print("="*20)
@@ -7,4 +7,3 @@ def tugas6():
     print("")
     print(f"Nama : {nama}\nNim : {nim}")
 
-tugas6()
